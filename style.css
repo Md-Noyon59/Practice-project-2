@@ -1,0 +1,689 @@
+
+
+       /* navber start  */
+.header{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.navber{
+    display: flex;
+    
+    align-items: center;
+
+
+}
+
+.logo a{
+   
+  align-items: center;
+   text-decoration: none;
+   list-style-type: none;
+   font-size: 30px;
+   font-weight: bolder;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 15px;
+   margin-right: 40px;
+}
+.frist-ul{
+    display: flex;
+    gap: 20px;
+text-decoration: none;
+list-style: none;
+margin-right: auto;
+
+
+    
+}.frist-ul a{
+    color:black;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+
+    
+   
+    
+}
+.secoud-ul{
+    
+   margin-right: 15px;
+}
+.secoud-ul a{
+    text-decoration: none;
+    list-style-type: none;
+   color: black;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 500;
+   
+    
+}
+.frist-ul ul{
+    display: none;
+}
+
+
+/* navber  end */
+
+/* section one start */
+
+section{
+    position: relative;
+    
+}
+.main-d{
+    position: relative;
+  width: 100%;
+  height:700px;
+    
+}
+
+
+
+.bukeboi{
+    
+    margin: 30px;
+    margin-left: 50px;
+    position:absolute;
+    width: 400px;
+    height: 300px;
+
+}
+.bukeboi1{
+    position: absolute;
+    margin-left: 88px;
+    width: 400px;
+    height: 400px;
+    margin-left: px;
+    z-index: 999;
+}
+.greenbg{
+
+    margin-top: 160px;
+margin-left: 130px;
+width: 400px;
+height: 400px;
+}
+.write{
+    position: absolute;
+
+    margin-left: 620px;
+    margin-top: 20px;
+   
+   
+}
+.who{
+margin-top: 25px;
+margin-bottom: 0px;
+font-family: Arial, Helvetica, sans-serif;
+    color:#4379F2;
+    font-size: 67px;
+}
+.we{
+  
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0,);
+}
+
+
+
+
+.div4{
+    z-index: 1000;
+    display:flex;
+
+    margin-left: 405px;
+    margin-top: 366px;
+    position: absolute;
+
+}
+.leard{
+    
+    background-color:aqua;
+    width: 160px;
+    height: 160px;
+
+}
+.learnp{
+    
+    color: black;
+    text-align: center;
+    
+    margin-top: 130px;
+    margin-left: 6px;
+    font-size: 25px;
+}
+.bi1{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 57px;
+    margin-left: 65px;
+    
+}
+
+.philograpyd{
+    background-color:darkgoldenrod;
+    width: 160px;
+    height: 160px;
+    
+
+}
+
+.philograpyp{
+
+
+    color: black;
+    text-align: center;
+    
+    margin-top: 130px;
+    margin-left: 6px;
+    font-size: 25px;
+}
+.practiced{
+    background-color:darkmagenta;
+    width: 160px;
+    height: 160px;
+
+}
+
+.practicep{
+    color: black;
+    text-align: center;
+    
+    margin-top: 130px;
+    margin-left: 6px;
+    font-size: 25px;
+
+}
+.gamed{
+    background-color: blue;
+    width: 160px;
+    height: 160px;
+}
+.gamep{
+    color: black;
+    text-align: center;
+    
+    margin-top: 130px;
+    margin-left: 6px;
+    font-size: 25px;
+
+}
+
+
+/* section one end */
+/* section two start */
+
+
+
+.main-how{
+    position: relative;
+margin-left: 139px;
+width: 80%;
+height: 350px;
+background-color: aqua;
+justify-content: center
+}
+.inside-how{
+    display: flex;
+   justify-content:center;
+
+}
+.blank-div{
+
+    width: 30%;
+    margin-top: 140px;
+    margin-left: 40px;
+    width:140px;
+    height: 5px;
+   
+    background-color: black;
+
+}
+.lorem-div{
+width: 70%;
+margin-top: 130px;
+margin-right: 90px;
+margin-left: 5px;
+font-size: 20px;
+
+}
+.howh1{
+ position: absolute;
+    margin-left: 70px;
+    top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+
+/* section two end  */
+
+/* section three start */
+
+
+
+.aboutus{
+    color:grey;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.best{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+.div5{
+    width: 80%;
+    height: 700px;
+    display: flex;
+margin-left: 140px;
+    
+    position: relative;
+}
+
+
+.box5{
+
+   display: flex;
+   width: 80%;
+   height: 800px;
+   margin-left: 140px;
+
+}
+
+
+.boxr{
+
+margin-left: 20px;
+width: 240px;
+height: 337px;
+
+  
+
+
+}
+.bi3{
+    margin-top: 3px;
+margin-left: 3px;
+font-size: 30px;
+
+
+}
+.our{
+    font-family: Arial, Helvetica, sans-serif;
+
+margin-left: 3px;
+margin-top: 50px;
+font-size: 40px;
+}
+.maje{
+font-size: 20px;
+}
+.btn{
+
+
+}
+
+
+
+
+.boxr2{
+  margin-left: 20px;
+    width: 240px;
+height: 337px;
+    
+
+
+
+}
+
+
+.bi{
+
+
+}
+.our1{
+    font-family: Arial, Helvetica, sans-serif;
+
+
+margin-top: 50px;
+font-size: 40px;
+
+}
+.maje{
+    font-size: 20px;
+}
+.btn{
+
+    margin-left: 75px;
+    margin-top: 90px;
+    font-size: 20px;
+    color: rgb(177, 57, 57);
+    
+}
+.man2{
+position: absolute;
+width: 240px;
+height: 300px;
+    margin-top: 350px;
+    margin-left: 20px;
+
+}
+.man3{
+position: absolute;
+width: 240px;
+height: 300px;
+margin-top: 350px;
+    background-color: rgb(226, 43, 153);
+    margin-left: 280px;
+}
+.hasi{
+    position: absolute;
+ margin-left: 540px;
+
+
+    width:500px;
+    height: 650px;
+    
+    background-color: rgb(27, 21, 197);
+
+    
+
+} 
+
+
+/* section tree end */
+/* section four start */
+
+.section4{
+width: 80%;
+height: 515px;
+background-color:#dec20d;
+margin-left: 140px;
+display: flex;
+justify-content: space-between;
+
+
+}
+
+
+.hello1{
+
+    width: 250px;
+height: 280px;
+background-color: #ddddb0;
+margin-top: 220px;
+margin-left: 15px;
+
+}
+.bi4{
+    margin-left: 100px;
+  margin-top: 20px;
+  font-size: 50px;
+
+}
+.envi{
+    margin-top: 85px;
+    margin-left: 60px;
+
+}
+.lp{
+    font-size: 20px;
+    margin-left: 7px;
+}
+.br{
+    border: none;
+    background-color:#ddddb0;
+    margin-left: 79px;
+    font-size: 17px;
+}
+
+
+
+.hello2{
+   
+    width: 250px;
+    height: 280px;
+    background-color: #ddddb0;
+    margin-top: 220px;
+}
+.hello3{
+    
+    margin-top: 220px;
+    width: 250px;
+    height: 280px;
+    background-color: #ddddb0;
+
+}
+.hello4{
+ 
+    width: 250px;
+    height: 280px;
+    background-color:#ddddb0;
+    margin-top: 220px;
+    margin-right: 15px;
+
+}
+.dhaka{
+position: absolute;
+margin-top: 30px;
+margin-left: 423px;
+font-size: 30px;
+
+}
+
+.provide{
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 350px;
+    font-size: 40px;
+}
+
+
+/* section four end */
+
+/* section five start */
+
+.section-5{
+    
+    width: 80%;
+    height: 700px;
+    margin-left: 140px;
+    margin-top: 60px;
+    
+}
+.bura{
+position: absolute;
+
+
+width: 350px;
+height: 450px;
+
+}
+.khali{
+    position: absolute;
+width: 400px;
+height: 450px;
+background-color: red;
+margin-top: 70px;
+margin-left: 220px;
+}
+.mathaboi{
+width: 320px;
+height: 450px;
+position: absolute;
+margin-top: 140px;
+margin-left: 260px;
+}
+
+.inno{
+position: absolute;
+
+    width: 400px;
+    height: 520px;
+    background-color:;
+    margin-left: 660px;
+    margin-top: 90px;
+}
+
+
+.inno1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+color: #4379F2;
+
+}
+.innop{
+
+font-size: 20px;
+line-height: 40px;
+}
+
+.innop2{
+
+
+}
+
+span{
+    color: red;
+   
+}
+
+.innob{
+color: red;
+font-size: 30px;
+margin-left: 30px;
+border: none;
+background-color: white;
+
+}
+
+
+/* section five end */
+
+/* section six start */
+
+
+.section6{
+    margin-left: 140px;
+    background-color: #4379F2;
+    display: flex;
+    justify-content: space-between;
+    
+    width: 80%;
+    height: 380px;
+}
+.helloto1{
+    margin-left: 20px;
+    
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 40px;
+}
+.helloto3{
+    margin-top: 130px;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+
+/* section six end */
+
+/* section seven  start */
+
+.div7{
+    position: relative;
+width: 80%;
+height: 200px;
+margin-left: 140px;
+margin-top: 110px;
+    display: flex;
+    justify-content: center;
+gap: 60px;
+    
+}
+
+.bi7{
+font-size: 50px;
+margin-left: 105px;
+}
+.bi7-7{
+    font-size: 80px;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-size: 40px;
+   
+}
+.number{
+    font-size: 30px;
+}
+.location{
+font-size: 22px;
+}
+
+
+/* section seven  end  */
+
+/* section eight  start */
+
+
+.div8{
+    width: 80%;
+    height: 300px;
+    margin-left: 140px;
+    display: flex;
+    justify-content: center;
+    gap:90px ;
+    background-color:darkmagenta;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Headline{
+    margin-top: 60px;
+    font-size: 40px;
+    
+}
+.Headlinep{
+    margin-bottom: 90px;
+}
+.bi8{
+    
+    font-size: 23px;
+ margin-bottom: 10px;
+    margin-left: 1px;
+    margin: 13px;
+    
+
+}
+
+
+/* section eight  end */
+
+/* section nine  start */
+
+.end-section{
+    width: 80%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    margin-left: 140px;
+    text-align: center;
+padding-top: 40px;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+section nine  end 
